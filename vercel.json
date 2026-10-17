@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/ivy-oak/browser",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}

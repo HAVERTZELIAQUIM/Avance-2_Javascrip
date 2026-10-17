@@ -1,0 +1,189 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Hoodie Blank",
+      "imagen": "https://thekraniet.com/wp-content/uploads/2025/08/buzo-aghata-3.jpg",
+      "categoria": "Oversize",
+      "precio": 129,
+      "stock": 25,
+      "tallas": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "descripcion": "Buzo oversize de algodón grueso, corte caído, bolsillo canguro.",
+      "precioOferta": 109
+    },
+    {
+      "id": 2,
+      "nombre": "Cargo Pants Street",
+      "imagen": "https://sofve.com/cdn/shop/files/1697786735343e0e2f30883916d276426df78ee135.jpg?v=1701812971",
+      "categoria": "Streetwear",
+      "precio": 189,
+      "precioOferta": 159,
+      "stock": 18,
+      "tallas": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "descripcion": "Pantalón cargo con bolsillos laterales, tiro medio, tela resistente."
+    },
+    {
+      "id": 3,
+      "nombre": "Chaleco Argyle Prep",
+      "imagen": "https://m.media-amazon.com/images/I/71QvF3DrpdL._AC_UY1000_.jpg",
+      "categoria": "Preppy moderno",
+      "precio": 139,
+      "stock": 8,
+      "tallas": [
+        "S",
+        "M",
+        "L"
+      ],
+      "descripcion": "Chaleco tejido con rombos, ideal para capas sobre camisa o polo."
+    },
+    {
+      "id": 4,
+      "nombre": "Polo Essential",
+      "imagen": "https://cnko.pe/cdn/shop/files/frente.png?v=1782629543&width=1024",
+      "categoria": "Casual minimalista",
+      "precio": 69,
+      "stock": 40,
+      "tallas": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "descripcion": "Polo básico de algodón peinado, corte recto, sin estampados.",
+      "precioOferta": 55
+    },
+    {
+      "id": 5,
+      "nombre": "Polo Boxy Washed",
+      "imagen": "assets/productos/producto-5.svg",
+      "categoria": "Oversize",
+      "precio": 79,
+      "precioOferta": 59,
+      "stock": 32,
+      "tallas": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "descripcion": "Polo boxy lavado, hombros caídos y cuello reforzado."
+    },
+    {
+      "id": 6,
+      "nombre": "Jogger Utility",
+      "imagen": "assets/productos/producto-6.svg",
+      "categoria": "Streetwear",
+      "precio": 149,
+      "stock": 14,
+      "tallas": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "descripcion": "Jogger con puños elásticos y bolsillos utilitarios."
+    },
+    {
+      "id": 7,
+      "nombre": "Cardigan Oxford",
+      "imagen": "assets/productos/producto-7.svg",
+      "categoria": "Preppy moderno",
+      "precio": 169,
+      "precioOferta": 139,
+      "stock": 9,
+      "tallas": [
+        "S",
+        "M",
+        "L"
+      ],
+      "descripcion": "Cardigan de punto fino con botones, ideal sobre camisa."
+    },
+    {
+      "id": 8,
+      "nombre": "Camisa Linen Essential",
+      "imagen": "assets/productos/producto-8.svg",
+      "categoria": "Casual minimalista",
+      "precio": 99,
+      "stock": 22,
+      "tallas": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "descripcion": "Camisa de lino ligera, corte recto y manga larga."
+    },
+    {
+      "id": 9,
+      "nombre": "Hoodie Samurái",
+      "imagen": "assets/productos/producto-9.svg",
+      "categoria": "Streetwear",
+      "precio": 159,
+      "precioOferta": 129,
+      "stock": 6,
+      "tallas": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "descripcion": "Buzo negro con arte samurái en tinta, edición limitada."
+    },
+    {
+      "id": 10,
+      "nombre": "Pantalón Pleated Prep",
+      "imagen": "assets/productos/producto-10.svg",
+      "categoria": "Preppy moderno",
+      "precio": 179,
+      "stock": 12,
+      "tallas": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "descripcion": "Pantalón de pinzas, tiro alto y caída recta."
+    },
+    {
+      "id": 11,
+      "nombre": "Bomber Oversize",
+      "imagen": "assets/productos/producto-11.svg",
+      "categoria": "Oversize",
+      "precio": 219,
+      "precioOferta": 179,
+      "stock": 5,
+      "tallas": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "descripcion": "Casaca bomber oversize con forro interior y puños rib."
+    },
+    {
+      "id": 12,
+      "nombre": "Polera Mock Neck",
+      "imagen": "assets/productos/producto-12.svg",
+      "categoria": "Casual minimalista",
+      "precio": 89,
+      "precioOferta": 69,
+      "stock": 28,
+      "tallas": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "descripcion": "Polera de cuello alto, algodón suave, sin estampados."
+    }
+  ]
+}

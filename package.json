@@ -1,0 +1,38 @@
+{
+  "name": "ivy-oak-angular",
+  "version": "1.0.0",
+  "description": "PC2 Javascript Avanzado (UTP) - E-commerce Ivy & Oak en Angular",
+  "scripts": {
+    "ng": "ng",
+    "sync-db": "node -e \"require('fs').copyFileSync('db.json','src/assets/db.json')\"",
+    "prestart": "npm run sync-db",
+    "start": "ng serve",
+    "api": "json-server --watch db.json --port 3000",
+    "dev": "concurrently \"npm:api\" \"npm:start\"",
+    "prebuild": "npm run sync-db",
+    "build": "ng build"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^17.3.0",
+    "@angular/common": "^17.3.0",
+    "@angular/compiler": "^17.3.0",
+    "@angular/core": "^17.3.0",
+    "@angular/forms": "^17.3.0",
+    "@angular/platform-browser": "^17.3.0",
+    "@angular/platform-browser-dynamic": "^17.3.0",
+    "@angular/router": "^17.3.0",
+    "bootstrap": "^5.3.3",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.3"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.3.0",
+    "@angular/cli": "^17.3.0",
+    "@angular/compiler-cli": "^17.3.0",
+    "concurrently": "^8.2.2",
+    "json-server": "^0.17.4",
+    "typescript": "~5.4.2"
+  }
+}
