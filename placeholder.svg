@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Ivy &amp; Oak">
+<rect width="400" height="500" fill="#f1efea"/>
+<g transform="translate(0,40)"><path d="M110 60 L150 40 Q200 70 250 40 L290 60 L340 120 L295 150 L275 125 L275 330 L125 330 L125 125 L105 150 L60 120 Z" fill="#cfcac0" stroke="#111" stroke-width="3" stroke-linejoin="round"/></g>
+<text x="200" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2" fill="#111">IVY &AMP; OAK</text>
+</svg>
